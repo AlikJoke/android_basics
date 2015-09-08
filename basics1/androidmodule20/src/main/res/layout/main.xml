@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:text="Lol is azaza"
+        android:textSize="30sp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Color"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:id="@+id/btnColor"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alignment"
+            android:id="@+id/btnAlign"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            />
+        </LinearLayout>
+</LinearLayout>

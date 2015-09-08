@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidmodule17/androidmodule17.iml" filepath="$PROJECT_DIR$/androidmodule17/androidmodule17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule18/androidmodule18.iml" filepath="$PROJECT_DIR$/androidmodule18/androidmodule18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule19/androidmodule19.iml" filepath="$PROJECT_DIR$/androidmodule19/androidmodule19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule20/androidmodule20.iml" filepath="$PROJECT_DIR$/androidmodule20/androidmodule20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule21/androidmodule21.iml" filepath="$PROJECT_DIR$/androidmodule21/androidmodule21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule22/androidmodule22.iml" filepath="$PROJECT_DIR$/androidmodule22/androidmodule22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule23/androidmodule23.iml" filepath="$PROJECT_DIR$/androidmodule23/androidmodule23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule24/androidmodule24.iml" filepath="$PROJECT_DIR$/androidmodule24/androidmodule24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule25/androidmodule25.iml" filepath="$PROJECT_DIR$/androidmodule25/androidmodule25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project1.iml" filepath="$PROJECT_DIR$/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_browser/simple_browser.iml" filepath="$PROJECT_DIR$/simple_browser/simple_browser.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_1.iml" filepath="$PROJECT_DIR$/Android_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity_two/activity_two.iml" filepath="$PROJECT_DIR$/activity_two/activity_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule1/androidmodule1.iml" filepath="$PROJECT_DIR$/androidmodule1/androidmodule1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule10/androidmodule10.iml" filepath="$PROJECT_DIR$/androidmodule10/androidmodule10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule11/androidmodule11.iml" filepath="$PROJECT_DIR$/androidmodule11/androidmodule11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule12/androidmodule12.iml" filepath="$PROJECT_DIR$/androidmodule12/androidmodule12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule13/androidmodule13.iml" filepath="$PROJECT_DIR$/androidmodule13/androidmodule13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule14/androidmodule14.iml" filepath="$PROJECT_DIR$/androidmodule14/androidmodule14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule15/androidmodule15.iml" filepath="$PROJECT_DIR$/androidmodule15/androidmodule15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule16/androidmodule16.iml" filepath="$PROJECT_DIR$/androidmodule16/androidmodule16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule17/androidmodule17.iml" filepath="$PROJECT_DIR$/androidmodule17/androidmodule17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule2/androidmodule2.iml" filepath="$PROJECT_DIR$/androidmodule2/androidmodule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule3/androidmodule3.iml" filepath="$PROJECT_DIR$/androidmodule3/androidmodule3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule4/androidmodule4.iml" filepath="$PROJECT_DIR$/androidmodule4/androidmodule4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule5/androidmodule5.iml" filepath="$PROJECT_DIR$/androidmodule5/androidmodule5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule6/androidmodule6.iml" filepath="$PROJECT_DIR$/androidmodule6/androidmodule6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule7/androidmodule7.iml" filepath="$PROJECT_DIR$/androidmodule7/androidmodule7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule8/androidmodule8.iml" filepath="$PROJECT_DIR$/androidmodule8/androidmodule8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmodule9/androidmodule9.iml" filepath="$PROJECT_DIR$/androidmodule9/androidmodule9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondactivity/secondactivity.iml" filepath="$PROJECT_DIR$/secondactivity/secondactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecalculator/simplecalculator.iml" filepath="$PROJECT_DIR$/simplecalculator/simplecalculator.iml" />
+    </modules>
+  </component>
+</project>
+

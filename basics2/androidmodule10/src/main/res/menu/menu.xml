@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit"
+        android:title="edit"
+        ></item>
+    <item
+        android:id="@+id/delete"
+        android:title="delete"
+        ></item>
+    <item
+        android:id="@+id/copy"
+        android:title="copy"
+        android:orderInCategory="3"
+        ></item>
+    <group
+        android:id="@+id/gr">
+        <item
+            android:id="@+id/exit"
+            android:orderInCategory="4"
+            android:title="exit"
+            ></item>
+        <item
+            android:id="@+id/add"
+            android:orderInCategory="2"
+            android:title="add"
+            ></item>
+        <item
+            android:id="@+id/paste"
+            android:orderInCategory="1"
+            android:title="paste"
+            ></item>
+    </group>
+</menu>

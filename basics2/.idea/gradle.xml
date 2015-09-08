@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_two" />
+            <option value="$PROJECT_DIR$/androidmodule1" />
+            <option value="$PROJECT_DIR$/androidmodule10" />
+            <option value="$PROJECT_DIR$/androidmodule11" />
+            <option value="$PROJECT_DIR$/androidmodule12" />
+            <option value="$PROJECT_DIR$/androidmodule13" />
+            <option value="$PROJECT_DIR$/androidmodule14" />
+            <option value="$PROJECT_DIR$/androidmodule15" />
+            <option value="$PROJECT_DIR$/androidmodule16" />
+            <option value="$PROJECT_DIR$/androidmodule17" />
+            <option value="$PROJECT_DIR$/androidmodule2" />
+            <option value="$PROJECT_DIR$/androidmodule3" />
+            <option value="$PROJECT_DIR$/androidmodule4" />
+            <option value="$PROJECT_DIR$/androidmodule5" />
+            <option value="$PROJECT_DIR$/androidmodule6" />
+            <option value="$PROJECT_DIR$/androidmodule7" />
+            <option value="$PROJECT_DIR$/androidmodule8" />
+            <option value="$PROJECT_DIR$/androidmodule9" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/secondactivity" />
+            <option value="$PROJECT_DIR$/simplecalculator" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
